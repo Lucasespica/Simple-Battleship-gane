@@ -1,5 +1,5 @@
 # Simple-Battleship-game
----
+
 Descrição: 
 
 O programa se trata do jogo “Batalha Naval”, feito via programação em linguagem Assembly (MASM), reproduzindo uma matriz 10x10 que contém embarcações posicionadas de maneira aleatória cujo usuário deverá acertar por meio de “tiros”. 
@@ -24,4 +24,5 @@ A qualquer momento durante o jogo, caso o usuário não queira mais jogar, poder
 Como o programa é formado:
 
 O programa contém todos os macros e procedimentos necessários para a execução, macros para limpar a tela, executar uma mensagem na tela, pular linha e dar espaço. O código possui 8 procedimentos, todos bem organizados com suas devidas funções.
+
 ---
