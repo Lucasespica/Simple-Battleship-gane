@@ -1,1 +1,1 @@
-# Simple-Battleship-gane
+# Simple-Battleship-game
